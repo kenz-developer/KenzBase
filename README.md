@@ -11,8 +11,8 @@
 
 ### 🔒 **Login Authentication**  
 ```javascript
-      🔑 USERNAME: admin  
-      🔑 PASSWORD: admin123  
+🔑 USERNAME: admin  
+🔑 PASSWORD: admin123  
 ```
 
 ---
