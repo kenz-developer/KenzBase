@@ -17,7 +17,7 @@
 
 ---
 
-### ⚙️ **Core Configuration** (`settings.js`)  
+### ⚙️ **Core Configuration** (`config.js`)  
 ```javascript
 //============ { SYSTEM SETTINGS } ============\\
 global.prefa = ['!', '.', ',', '🐤', '🗿']; // 🎨 Custom prefixes
