@@ -35,16 +35,16 @@ global.yt = ''; // 🎥 YouTube channel
 
 ### 🚀 **Quick Setup Guide**  
 ```bash
-# 1️ Clone repository
+# [1] Clone repository
 git clone https://github.com/latesturl/RaolLatestX.git
 
-# 2️⃣ Install dependencies ⚙️
+# [2] Install dependencies ⚙️
 npm install
 
-# 3️⃣ Configure settings 🔧
-nano settings.js
+# [3] Configure settings 🔧
+nano settings/config.js
 
-# 4️⃣ Start the bot 
+# [4] Start the bot 
 npm start
 ```
 
