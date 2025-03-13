@@ -17,24 +17,8 @@
 
 ---
 
-### ⚙️ **Core Configuration** (`config.js`)  
-```javascript
-//============ { SYSTEM SETTINGS } ============\\
-global.prefa = ['!', '.', ',', '🐤', '🗿']; // 🎨 Custom prefixes
-global.owner = 'YourName'; // 👤 Owner identity
-global.email = 'latesturltech@gmail.com'; // 📧 Contact
-global.namabot = 'RaolLatestX'; // 🤖 Bot name
-global.sessionName = 'session'; // 📄 Session file
-// 🚨 Fill these fields before deployment!
-global.ownNumb = ''; // 📱 Owner number
-global.packname = ''; // 🎨 Sticker pack
-global.yt = ''; // 🎥 YouTube channel
-```
-
----
-
 ### 🚀 **Quick Setup Guide**  
-```bash
+```javascript
 # [1] Clone repository
 git clone https://github.com/latesturl/RaolLatestX.git
 
