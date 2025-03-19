@@ -5,15 +5,15 @@ global.calender = d.toLocaleDateString('id');
 
 //================= { SETTINGS } =================\\
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = '';
-global.email = 'latesturltech@gmail.com';
-global.ownNumb = '';
-global.NamaOwner = '';
+global.owner = '6285934686607';
+global.email = 'kenzzudahjago@gmail.com';
+global.ownNumb = '6285934686607';
+global.NamaOwner = 'KenzCodex';
 global.sessionName = 'session';
 global.namabot = 'RaolLatestX';
-global.author = '';
-global.packname = '';
-global.yt = '';
+global.author = 'KenzDecode';
+global.packname = 'Kenz';
+global.yt = 'KenzzDev';
 
 //================= { MASSAGE } =================\\
 global.mess = {
